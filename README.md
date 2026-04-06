@@ -24,23 +24,6 @@ The goal is to classify images of cassava leaves into **5 categories**:
 
 ---
 
-## 📂 Project Structure
-
-```
-cassava-leaf-disease-classification/
-│
-├── notebook.ipynb              # Main project notebook
-├── outputs/
-│   ├── figures/                # Plots and visualizations
-│   ├── models/                 # Saved models
-│   ├── tables/                 # Result tables
-│   └── logs/                   # Training logs
-│
-└── README.md                   # Project documentation
-```
-
----
-
 ## 📊 Dataset
 
 * Total images: ~21,000+
